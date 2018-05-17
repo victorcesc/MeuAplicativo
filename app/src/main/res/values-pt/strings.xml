@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Aplicativo</string>
+    <string name="sair">Sair</string>
+    <string name="text1">Toma Essa</string>
+    <string name="OK">Sim</string>
+    <string name = "submit">Enviar</string>
+</resources>
