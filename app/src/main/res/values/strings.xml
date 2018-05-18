@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Meu Aplicativo</string>
-    <string name ="OK">Yes</string>
+    <string name="OK">Yes</string>
     <string name="sair">Out</string>
-    <string name ="text1">Toma Essa</string>
-    <string name = "submit">Submit</string>
+    <string name="text1">Toma Essa</string>
+    <string name="submit">Submit</string>
 </resources>
